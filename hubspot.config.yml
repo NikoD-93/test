@@ -1,0 +1,12 @@
+defaultPortal: perimeter-dev
+portals:
+  - name: perimeter-dev
+    portalId: 8553963
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CPCinsb5LhIIAAUABAAA4AEY64uKBCDE2vwFKO7pDDIZAO7uVxBHXUpIjduW_iHW_9f-Kh7ltTQWEjogAAAEQQAAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAGD-_zFCGQDu7lcQzuSA8_77PTN3-i5fX32MzCeioUA
+        expiresAt: '2021-02-13T00:25:51.738Z'
+    personalAccessKey: >-
+      CiQ5ZWIzZDVhZC0wNDAzLTQwZDgtODdkOC1kOTMzOGZmYjllYTMQ64uKBBjE2vwFKhkABeaRguMVj6IsmAi0oq1s9nigwPZOJOOY
